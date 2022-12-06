@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**AshutoshShimpi01/AshutoshShimpi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+"Hi, I'm Ashutosh Shimpi, a pre-final year ITE Undergrad with an interest in Cloud Computing, Machine Learning, Android and Web Development. I loves to combine his passion with software development skills to build new products."
+
+Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I have been contributing to make the students well versed with development & programming. I am presently pursuing Btech in Computer Engineering(CE) From Pune University.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
