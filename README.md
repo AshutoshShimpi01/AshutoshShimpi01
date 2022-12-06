@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-"Hi, I'm Ashutosh Shimpi, a pre-final year ITE Undergrad with an interest in Cloud Computing, Machine Learning, Android and Web Development. I loves to combine his passion with software development skills to build new products."
+"Hi, I'm Ashutosh Shimpi, a pre-final year IT Undergrad with an interest in Cloud Computing, Machine Learning, Android and Web Development. I loves to combine his passion with software development skills to build new products."
 
 Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I have been contributing to make the students well versed with development & programming. I am presently pursuing Btech in Computer Engineering(CE) From Pune University.
 
